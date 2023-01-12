@@ -1,0 +1,39 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+#calculator{
+    background-color:chartreuse;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 18px;
+}
+#calculator2{
+    background-color:crimson;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 18px;
+}
+#calculator3{
+    background-color:coral;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 18px;
+}
+#calculator4{
+    background-color:cadetblue;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 18px;
+}
+#myDiv{
+
+}
